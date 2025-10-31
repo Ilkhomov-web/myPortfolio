@@ -1,0 +1,125 @@
+[
+  {
+    "name": "GameSpot-Jizzakh (Mobile)",
+    "desc": "GameSpot Jizzakh is a modern gaming and entertainment center.",
+    "image": "gameSpotMobile1",
+    "category": "mobile",
+    "links": {
+      "view": "https://expo.dev",
+      "code": "https://github.com/Ilkhomov-web/gameSpot-Jizzax-Mobile"
+    }
+  },
+  {
+    "name": "GameSpot-Jizzakh",
+    "desc": "GameSpot Jizzakh is a modern gaming and entertainment center.",
+    "image": "gameSpotMobile2",
+    "category": "web",
+    "links": {
+      "view": "*",
+      "code": "https://github.com/Ilkhomov-web/gameSpot-Jizzakh"
+    }
+  },
+  {
+    "name": "Lazzat-Travel",
+    "desc": "Lazzat Travel is a professional travel and tour services company.",
+    "image": "lazzat",
+    "category": "web",
+    "links": {
+      "view": "https://www.lazzattravel.uz/",
+      "code": "https://github.com/Ilkhomov-web/lazzat-travel"
+    }
+  },
+  {
+    "name": "E-Bozor",
+    "desc": "E-Bozor is an online marketplace platform",
+    "image": "e-bozor",
+    "category": "web",
+    "links": {
+      "view": "https://cabinet.online-bozor.uz/",
+      "code": "https://github.com/Ilkhomov-web/E-Bozor"
+    }
+  },
+  {
+    "name": "Flush-A Game Club",
+    "desc": "Flush-A is a smart financial tracking system",
+    "image": "flush-a",
+    "category": "web",
+    "links": {
+      "view": "https://flush-a.netlify.app/",
+      "code": "https://github.com/Elka0624/Flush-A"
+    }
+  },
+  {
+    "name": "Savodxon Bolajon",
+    "desc": "Savodxon Bolojan is a kids’ learning app for improving reading and writing skills.",
+    "image": "Savodxon",
+    "category": "web",
+    "links": {
+      "view": "https://savodxon-bolajon.netlify.app/",
+      "code": "https://github.com/Ilkhomov-web/savodxonBolajonApp"
+    }
+  },
+  {
+    "name": "ABC Burger Managment System",
+    "desc": "A system for managing burger shop orders, products, and daily sales.",
+    "image": "Abc",
+    "category": "web",
+    "links": {
+      "view": "https://abc-burger-hisob.netlify.app/",
+      "code": "https://github.com/Ilkhomov-web/ABC-Burger"
+    }
+  },
+
+  {
+    "name": "EAG Carpet Jobs",
+    "desc": "A job application system for Eag Carpet to collect and manage candidate data.",
+    "image": "EAG",
+    "category": "web",
+    "links": {
+      "view": "https://eag-hr-test.netlify.app/",
+      "code": "https://github.com/Ilkhomov-web"
+    }
+  },
+  {
+    "name": "Elka - Tube",
+    "desc": "A YouTube-like video streaming platform.",
+    "image": "elka-tube",
+    "category": "web",
+    "links": {
+      "view": "https://you-tube-elka-dev.netlify.app/",
+      "code": "https://github.com/mukhtorov/lunaOld"
+    }
+  },
+  {
+    "name": "Best Education",
+    "desc": "An online learning platform for student education and progress tracking.",
+    "image": "best",
+    "category": "web",
+    "links": {
+      "view": "https://best-education.vercel.app/",
+      "code": "https://github.com/Ilkhomov-web/BestEducation"
+    }
+  },
+  {
+    "name": "Abc Burger",
+    "desc": "An online burger ordering website for customers.",
+    "image": "abc-b",
+    "category": "mobile",
+    "links": {
+      "view": "https://abc-burger.vercel.app/home",
+      "code": "https://github.com/Ilkhomov-web/ABC-Burger/"
+    }
+  },
+  {
+    "name": "Devontion IT Company",
+    "desc": "A software and web development company. ",
+    "image": "devontion",
+    "category": "web",
+    "links": {
+      "view": "https://devenation.netlify.app/",
+      "code": "https://github.com/Ilkhomov-web/It-Line"
+    }
+  }
+ 
+  
+]
